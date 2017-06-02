@@ -315,7 +315,7 @@
                    <a class="mdl-navigation__link animsition-link" href="acindex.html"><p>Acts </p></a> 
                  </div>  
                  <br/> 
-				 <p> Remaining books will be added soon </p>
+				 
                  <!--div class="contact swipeable">
                    <div class="contact-user bg-blue"><span>06</span></div>
                    <a class="mdl-navigation__link animsition-link" href="45/1.htm"><p>Romans</p></a> 
@@ -434,7 +434,12 @@
                  
                  
                  <br/> </div> 
-
+           <div class="profile-image" >
+            <img src="http://kannadachristiansongs.in/KannadaBibles/books-will-be-added-soon.png" alt="To to display image you must be connected to internet" id="imgID"> 
+			<button class="mdl-button mdl-js-button mdl-button--fab mdl-js-ripple-effect mdl-button--colored" onclick="window.plugins.socialsharing.share('Install Bible quiz chapterwise Android App to play quizzes separatly for each chapter of the Bible books.', null, 'http://kannadachristiansongs.in/KannadaBibles/books-will-be-added-soon.png', 'https://goo.gl/7K0ePg')">  
+            <i class="material-icons white">share</i> 
+            </button> 
+          </div>
 
           <footer class="mdl-mini-footer bg-light-blue">
             <div class="mdl-mini-footer__left-section">
@@ -463,5 +468,12 @@
     <script type="text/javascript">
         app.initialize();
     </script>
+	<script>
+var num = Math.random();
+var imgSrc= "http://kannadachristiansongs.in/KannadaBibles/books-will-be-added-soon.png?v="+num;
+$(function() {
+$('#imgID').attr("src", imgSrc);
+})
+</script>
   </body>
 </html>
