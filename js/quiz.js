@@ -112,7 +112,7 @@
             $('#question').text("You got " + score + " out of " + quiz.length + " correct.");
             $(document.createElement('h2')).css({'text-align':'center', 'font-size':'4em'}).text(Math.round(score/quiz.length * 100) + '%').insertAfter('#question');
 			
-			if (score > 4 || score == 4 ){
+			if (score >= 4 ){
 			nextlevelshow();
 			}
 			else {
@@ -121,11 +121,11 @@
         }
 		
 		function samelevel(){
-			$('#samelevel').show()
+			$('#samelevel').show();
 		}
 		
 		function nextlevelshow(){
-			$('#nextlevel').show()
+			$('#nextlevel').show();
 		}
         /**
          * Runs the first time and creates all of the elements for the quiz
