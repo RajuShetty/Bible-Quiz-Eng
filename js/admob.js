@@ -43,7 +43,7 @@ function initApp() {
   
   prepareRewardVideoAd({
 	  adId: admobid.rewardvideo,
-    isTesting: true, // TODO: remove this line when release
+    //isTesting: true, // TODO: remove this line when release
     autoShow: true });
 }
 
