@@ -31,7 +31,7 @@
         /**
          * Resets all of the fields to prepare for next question
          */
-        function nextQuestion(){
+        function nextQuestion(){	
             submt = true;
             $('#explanation').empty();
             $('#question').text(quiz[currentquestion]['question']);
@@ -47,6 +47,7 @@
             }
             addChoices(quiz[currentquestion]['choices']);
             setupButtons();
+		
         }
 
         /**
@@ -70,6 +71,7 @@
                 } else {
                     $(this).text('Check Answer').css({'color':'#222'}).off('click');
                     nextQuestion();
+					
                 }
             })
         }
@@ -111,8 +113,8 @@
             $('#submitbutton').remove();
             $('#question').text("You got " + score + " out of " + quiz.length + " correct.");
             $(document.createElement('h2')).css({'text-align':'center', 'font-size':'4em'}).text(Math.round(score/quiz.length * 100) + '%').insertAfter('#question');
-			
 			if (score >= 4 ){
+				alert("hi");
 			nextlevelshow();
 			}
 			else {
@@ -127,6 +129,7 @@
 		function nextlevelshow(){
 			$('#nextlevel').show();
 		}
+			
         /**
          * Runs the first time and creates all of the elements for the quiz
          */
