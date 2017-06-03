@@ -114,7 +114,7 @@
             $('#question').text("You got " + score + " out of " + quiz.length + " correct.");
             $(document.createElement('h2')).css({'text-align':'center', 'font-size':'4em'}).text(Math.round(score/quiz.length * 100) + '%').insertAfter('#question');
 			if (score >= 4 ){
-				alert("hi");
+				
 			nextlevelshow();
 			}
 			else {
