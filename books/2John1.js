@@ -1,4 +1,4 @@
-var quiztitle = " 2 John Peter chapter 1";			
+var quiztitle = " 2 John chapter 1";			
 var quiz = [			
 {			
 "question" :	"	1. How does John refer to himself?	",

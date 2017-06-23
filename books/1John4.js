@@ -1,4 +1,4 @@
-var quiztitle = " 1 John Peter chapter 4";			
+var quiztitle = "1 John  chapter 4";			
 var quiz = [			
 {			
 "question" :	"	1. Try these whether they are of God.	",

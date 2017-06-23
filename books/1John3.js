@@ -1,4 +1,4 @@
-var quiztitle = " 1 John Peter chapter 3";			
+var quiztitle = 1 John  chapter 3";			
 var quiz = [			
 {			
 "question" :	"	1. What manner of love God has bestowed upon us that we should be called this.	",
