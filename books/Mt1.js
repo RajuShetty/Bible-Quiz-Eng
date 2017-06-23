@@ -13,7 +13,7 @@ var quiz = [
 "explanation" :	"	The book of the genealogy of Jesus Christ, the Son of David, the Son of Abraham: -Matthew 1:1	",
 },			
 {			
-"question" :	"	2. What king was in the linage of Jesus?	",
+"question" :	"	2. Which king was in the linage of Jesus?	",
 "image" :	"",		
 "choices" : [			
 	"	a. David	",

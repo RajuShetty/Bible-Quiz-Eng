@@ -10,7 +10,7 @@ var quiz = [
 	"	d. His other eye?	"
 ],			
 "correct" :	"	b. The beam in your own?	",
-"explanation" :	"	And why do you look at the speck in your brother's eye, but do not consider the plank in your own eye? - Matt 7:3	",
+"explanation" :	"And why beholdest thou the mote that is in thy brother's eye, but considerest not the beam that is in thine own eye? - Matt 7:3	",
 },			
 {			
 "question" :	"	2. Cast not your pearls before them.	",
@@ -46,7 +46,7 @@ var quiz = [
 	"	d. Ye shall have them.	"
 ],			
 "correct" :	"	c. Do ye even so to them.	",
-"explanation" :	"	Therefore, whatever you want men to do to you, do also to them, for this is the Law and the Prophets. - matt 7:12	",
+"explanation" :	"	Therefore all things whatsoever ye would that men should do to you, do ye even so to them: for this is the law and the prophets. - matt 7:12	",
 },			
 {			
 "question" :	"	5. Straight is the gate, and narrow the way, that leads to	",

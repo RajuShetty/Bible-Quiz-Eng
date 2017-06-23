@@ -10,10 +10,10 @@ var quiz = [
 	"	d. In Jerusalem	"
 ],			
 "correct" :	"	c. From a mountain	",
-"explanation" :	"	Rejoice and be exceedingly glad, for great is your reward in heaven, for so they persecuted the prophets who were before you.- Matt 5:12	",
+"explanation" :	"And seeing the multitudes, he went up into a mountain: and when he was set, his disciples came unto him And he opened his mouth, and taught them,  Matt 5:1-2",
 },			
 {			
-"question" :	"	2. Blessed are they that hunger and thirst after this, for they shall be filled.	",
+"question" :	"	2. Blessed are they that hunger and thirst after _______, for they shall be filled.	",
 "image" :	"",		
 "choices" : [			
 	"	a. Bread & wine	",
@@ -22,7 +22,7 @@ var quiz = [
 	"	d. Righteousness	"
 ],			
 "correct" :	"	d. Righteousness	",
-"explanation" :	"	Blessed are those who hunger and thirst for righteousness, For they shall be filled.- Matt 5:5	",
+"explanation" :	"Blessed are they which do hunger and thirst after righteousness: for they shall be filled Mat 5:6	",
 },			
 {			
 "question" :	"	3. Blessed are the merciful, for	",

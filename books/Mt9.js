@@ -10,7 +10,7 @@ var quiz = [
 	"	d. Mad cow disease.	"
 ],			
 "correct" :	"	c. Palsy.	",
-"explanation" :	"	Then behold, they brought to Him a paralytic lying on a bed. When Jesus saw their faith, He said to the paralytic, Son, be of good cheer; your sins are forgiven you - matt 9:2	",
+"explanation" :	"	And, behold, they brought to him a man sick of the palsy, lying on a bed: and Jesus seeing their faith said unto the sick of the palsy; Son, be of good cheer; thy sins be forgiven thee - matt 9:2	",
 },			
 {			
 "question" :	"	2. Which disciple did Jesus call at the receipt of custom?	",
@@ -22,7 +22,7 @@ var quiz = [
 	"	d. Matthew	"
 ],			
 "correct" :	"	d. Matthew	",
-"explanation" :	"	As Jesus passed on from there, He saw a man named Matthew sitting at the tax office. And He said to him, Follow Me. So he arose and followed Him. - matt 9:9	",
+"explanation" :	"And as Jesus passed forth from thence, he saw a man, named Matthew, sitting at the receipt of custom: and he saith unto him, Follow me. And he arose, and followed him. - matt 9:9	",
 },			
 {			
 "question" :	"	3. A ruler came to Jesus, and asked Him to lay hands on	",
@@ -58,7 +58,7 @@ var quiz = [
 	"	d. Thy faith hath made thee whole.	"
 ],			
 "correct" :	"	d. Thy faith hath made thee whole.	",
-"explanation" :	"	But Jesus turned around, and when He saw her He said, Be of good cheer, daughter; your faith has made you well.And the woman was made well from that hour. - matt 9:22	",
+"explanation" :	"But Jesus turned him about, and when he saw her, he said, Daughter, be of good comfort; thy faith hath made thee whole. And the woman was made whole from that hour. - matt 9:22	",
 },			
 {			
 "question" :	"	6. When Jesus arrived at the ruler’s house, Jesus told the mourners	",
@@ -70,7 +70,7 @@ var quiz = [
 	"	d. Bring the maid before me.	"
 ],			
 "correct" :	"	c. The maid is not dead, but sleeping.	",
-"explanation" :	"	He said to them,Make room, for the girl is not dead, but sleeping.And they ridiculed Him. - matt 9:24	",
+"explanation" :	"He said unto them, Give place: for the maid is not dead, but sleepeth. And they laughed him to scorn. - matt 9:24	",
 },			
 {			
 "question" :	"	7. When Jesus said this, the people	",
@@ -82,7 +82,7 @@ var quiz = [
 	"	d. Cried all the more.	"
 ],			
 "correct" :	"	c. Laughed Him to scorn.	",
-"explanation" :	"	He said to them,Make room, for the girl is not dead, but sleeping.And they ridiculed Him. - matt 9:24	",
+"explanation" :	"	He said unto them, Give place: for the maid is not dead, but sleepeth. And they laughed him to scorn. - matt 9:24	",
 },			
 {			
 "question" :	"	8. Two blind men followed Jesus, crying	",
@@ -106,7 +106,7 @@ var quiz = [
 	"	d. Sent him away from the city	"
 ],			
 "correct" :	"	b. Cast the devil out	",
-"explanation" :	"	And when the demon was cast out, the mute spoke. And the multitudes marveled, saying, It was never seen like this in Israel - matt 9:33	",
+"explanation" :	"And when the devil was cast out, the dumb spake: and the multitudes marvelled, saying, It was never so seen in Israel. - matt 9:33	",
 },			
 {			
 "question" :	"	10. Pray for laborers, because the harvest is plenteous, but laborers	",

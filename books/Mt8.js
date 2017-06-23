@@ -22,7 +22,7 @@ var quiz = [
 	"	d. He fell off a horse	"
 ],			
 "correct" :	"	b. The palsy	",
-"explanation" :	"	Now when Jesus had entered Capernaum, a centurion came to Him, pleading with Him, saying, Lord, my servant is lying at home paralyzed, dreadfully tormented.- matt 8:5,6	",
+"explanation" :	"And when Jesus was entered into Capernaum, there came unto him a centurion, beseeching him, And saying, Lord, my servant lieth at home sick of the palsy, grievously tormented. Matthew 8:5,6",
 },			
 {			
 "question" :	"	3. The centurion said, since Jesus had authority, He only needed to do this, and the servant would be healed.	",
