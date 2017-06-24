@@ -9,9 +9,9 @@ if( /(android)/i.test(navigator.userAgent) ) {
   };
 } else if(/(ipod|iphone|ipad)/i.test(navigator.userAgent)) {
   admobid = { // for iOS
-    banner: 'ca-app-pub-3940256099942544/4480807092',
-    interstitial: 'ca-app-pub-3940256099942544/4411468910',
-    rewardvideo: 'ca-app-pub-3940256099942544/1712485313',
+    banner: '',
+    interstitial: 'ca-app-pub-6251426836814427/4157585994',
+    rewardvideo: 'ca-app-pub-6251426836814427/5634319197',
   };
 }/* else {
   admobid = { // for Windows Phone
@@ -37,13 +37,13 @@ function initApp() {
   // this will load a full screen ad on startup
   AdMob.prepareInterstitial({
     adId: admobid.interstitial,
-    //isTesting: true, // TODO: remove this line when release
+    
     autoShow: true
   });
   
   prepareRewardVideoAd({
 	  adId: admobid.rewardvideo,
-    //isTesting: true, // TODO: remove this line when release
+  
     autoShow: true });
 }
 
