@@ -54,7 +54,7 @@
     <gap:plugin name="cordova-plugin-network-information" source="npm" spec="1.2.1" />
     
 	
-  <icon src="icon.png" />
+
 
   <platform name="ios">
     <icon src="www/res/icon/ios/icon.png" platform="ios" width="57" height="57"/>
@@ -84,8 +84,8 @@
     <splash src="www/res/screen/ios/Default@2x~iphone.png" platform="ios" width="640" height="960"/>
     <splash src="www/res/screen/ios/Default~iphone.png" platform="ios" width="320" height="480"/ -->
   </platform>
-  
-  
+    <icon src="icon.png" />
+  <content src="index.html" />
   <access origin="*"/>
   <allow-intent href="http://*/*"/>
   <allow-intent href="https://*/*"/>
