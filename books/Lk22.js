@@ -1,124 +1,123 @@
-var quiztitle = "Luke chapter 21";			
+var quiztitle = "Luke chapter 22";			
 var quiz = [			
 {			
-"question" :	"	1. How much did the widow put in the treasury?	",
+"question" :	"	1. This disciple conspired with the chief priests, how he would betray Jesus.	",
 "image" :	"",		
 "choices" : [			
-	"	a. 30 pieces of silver	",
-	"	b. 30 pieces of gold	",
-	"	c. 2 mites	",
-	"	d. 10 shekels	"
+	"	a. Judas Iscariot	",
+	"	b. Andrew	",
+	"	c. Peter	",
+	"	d. John	"
 ],			
-"correct" :	"	c. 2 mites	",
-"explanation" :	"	and He saw also a certain poor widow putting in two mites.- Lk 21:2	",
+"correct" :	"	a. Judas Iscariot	",
+"explanation" :	"	Then Satan entered Judas, surnamed Iscariot, who was numbered among the twelve. So he went his way and conferred with the chief priests and captains, how he might betray Him to them. - Lk 22:3-4	",
 },			
 {			
-"question" :	"	2. What did Jesus say about the widow?	",
+"question" :	"	2. Jesus sent Peter and John to prepare for this feast.	",
 "image" :	"",		
 "choices" : [			
-	"	a. She gave more than all the others.	",
-	"	b. She was stingy.	",
-	"	c. She had money hidden.	",
-	"	d. She would remarry.	"
+	"	a. Yom Kipper	",
+	"	b. Passover	",
+	"	c. Jubilee	",
+	"	d. Feast of the Harvest	"
 ],			
-"correct" :	"	a. She gave more than all the others.	",
-"explanation" :	"	So He said, Truly I say to you that this poor widow has put in more than all; - Lk 21:3	",
+"correct" :	"	b. Passover	",
+"explanation" :	"	And He sent Peter and John, saying, Go and prepare the Passover for us, that we may eat. - Lk 22:8	",
 },			
 {			
-"question" :	"	3. When the people were speaking of this place, Jesus said, there would not be one stone left upon another.	",
+"question" :	"	3. Jesus said, the bread represents	",
 "image" :	"",		
 "choices" : [			
-	"	a. Heaven	",
-	"	b. Mt. Zion	",
-	"	c. The temple	",
-	"	d. Egypt	"
+	"	a. The world.	",
+	"	b. His body.	",
+	"	c. His spirit.	",
+	"	d. The Father.	"
 ],			
-"correct" :	"	c. The temple	",
-"explanation" :	"	Then, as some spoke of the temple, how it was adorned with beautiful stones and donations, He said,These things which you see--the days will come in which not one stone shall be left upon another that shall not be thrown down. - Lk 21:5-6	",
+"correct" :	"	b. His body.	",
+"explanation" :	"	And He took bread, gave thanks and broke it, and gave it to them, saying, This is My body which is given for you; do this in remembrance of Me. - Lk 22:19	",
 },			
 {			
-"question" :	"	4. Jesus said, many would come in His name	",
+"question" :	"	4. Jesus said, the fruit of the vine represents	",
 "image" :	"",		
 "choices" : [			
-	"	a. Preaching Jesus.	",
-	"	b. Healing the sick.	",
-	"	c. Saying I am Christ.	",
-	"	d. Preaching the gospel of the kingdom.	"
+	"	a. Sin.	",
+	"	b. Faith.	",
+	"	c. Tribulation.	",
+	"	d. His blood.	"
 ],			
-"correct" :	"	c. Saying I am Christ.	",
-"explanation" :	"	And He said: Take heed that you not be deceived. For many will come in My name, saying, 'I am He,' and, 'The time has drawn near.' Therefore do not go after them. - Lk 21:8	",
+"correct" :	"	d. His blood.	",
+"explanation" :	"	Then He took the cup, and gave thanks, and said, Take this and divide it among yourselves;for I say to you, I will not drink of the fruit of the vine until the kingdom of God comes.And He took bread, gave thanks and broke it, and gave it to them, saying, This is My body which is given for you; do this in remembrance of Me.Likewise He also took the cup after supper, saying, This cup is the new covenant in My blood, which is shed for you. - Lk 22:17-20	",
 },			
 {			
-"question" :	"	5. Jesus said, do not be terrified when you hear of these.	",
+"question" :	"	5. Jesus told this disciple that he would deny knowing Jesus three times.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Elections	",
-	"	b. Locust	",
-	"	c. Wars	",
-	"	d. Snakes	"
+	"	a. James	",
+	"	b. Andrew	",
+	"	c. Peter	",
+	"	d. Judas	"
 ],			
-"correct" :	"	c. Wars	",
-"explanation" :	"	But when you hear of wars and commotions, do not be terrified; for these things must come to pass first, but the end will not come immediately. - Lk 21:9	",
+"correct" :	"	c. Peter	",
+"explanation" :	"	Then He said, I tell you, Peter, the rooster shall not crow this day before you will deny three times that you know Me - Lk 22:34	",
 },			
 {			
-"question" :	"	6. Jesus said, these would be in diverse places.	",
+"question" :	"	6. Who came and strengthened Jesus when He was praying?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Sightings of angels	",
-	"	b. An oasis of peace	",
-	"	c. Earthquakes, famines & pestilence	",
-	"	d. Revival meetings	"
+	"	a. An angel	",
+	"	b. The Holy Ghost	",
+	"	c. Satan	",
+	"	d. John	"
 ],			
-"correct" :	"	c. Earthquakes, famines & pestilence	",
-"explanation" :	"	And there will be great earthquakes in various places, and famines and pestilences; and there will be fearful sights and great signs from heaven. - Lk 21:11	",
+"correct" :	"	a. An angel	",
+"explanation" :	"	Then an angel appeared to Him from heaven, strengthening Him. - Lk 22:43	",
 },			
 {			
-"question" :	"	7. Jesus said for His name’s sake, all men will	",
+"question" :	"	7. What did Jesus’ disciples do asJesus prayed?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Respect you.	",
-	"	b. Hate you.	",
-	"	c. Honor you.	",
-	"	d. Provide for you.	"
+	"	a. Prayed	",
+	"	b. Slept	",
+	"	c. Wept	",
+	"	d. Sang hymns	"
 ],			
-"correct" :	"	b. Hate you.	",
-"explanation" :	"	And you will be hated by all for My name's sake. - Lk 21:17	",
+"correct" :	"	b. Slept	",
+"explanation" :	"	When He rose up from prayer, and had come to His disciples, He found them sleeping from sorrow. - Lk 22:45	",
 },			
 {			
-"question" :	"	8. Jesus spoke a parable, mentioning this kind of tree.	",
+"question" :	"	8. When one of the disciples cut off the ear of a servant of the high priest	",
 "image" :	"",		
 "choices" : [			
-	"	a. Apple	",
-	"	b. Olive	",
-	"	c. Mustard	",
-	"	d. Fig	"
+	"	a. Jesus thanked the disciple.	",
+	"	b. Jesus healed the ear.	",
+	"	c. The servant struck Jesus.	",
+	"	d. The high priest struck Jesus.	"
 ],			
-"correct" :	"	d. Fig	",
-"explanation" :	"	Then He spoke to them a parable: Look at the fig tree, and all the trees. - Lk 21:29	",
+"correct" :	"	b. Jesus healed the ear.	",
+"explanation" :	"	And one of them struck the servant of the high priest and cut off his right ear.But Jesus answered and said, Permit even this.And He touched his ear and healed him. - Lk 22:50-51	",
 },			
 {			
-"question" :	"	9. Jesus said, heaven and earth will pass away, but these will not.	",
+"question" :	"	9. After the cock crew and Peter remembered the words of Jesus	",
 "image" :	"",		
 "choices" : [			
-	"	a. The souls of men	",
-	"	b. His words	",
-	"	c. Tribulations	",
-	"	d. Angels	"
+	"	a. Peter rejoiced.	",
+	"	b. Peter wept bitterly.	",
+	"	c. Peter died.	",
+	"	d. Peter was arrested.	"
 ],			
-"correct" :	"	b. His words	",
-"explanation" :	"	Heaven and earth will pass away, but My words will by no means pass away. - Lk 21:33	",
+"correct" :	"	b. Peter wept bitterly.	",
+"explanation" :	"	And the Lord turned and looked at Peter. And Peter remembered the word of the Lord, how He had said to him, Before the rooster crows, you will deny Me three times.So Peter went out and wept bitterly. - Lk 22:61-62	",
 },			
 {			
-"question" :	"	10. After teaching in the temple, Jesus abode here that night.	",
+"question" :	"	10. The men that held Jesus blindfolded Him and smote Him, saying	",
 "image" :	"",		
 "choices" : [			
-	"	a. The mount of Olives	",
-	"	b. Egypt	",
-	"	c. The valley of Salt	",
-	"	d. Mt. Sinai	"
+	"	a. We do the will of God.	",
+	"	b. Prophesy who smote you.	",
+	"	c. Thou son of David.	",
+	"	d. You are a thief.	"
 ],			
-"correct" :	"	a. The mount of Olives	",
-"explanation" :	"	And in the daytime He was teaching in the temple, but at night He went out and stayed on the mountain called Olivet. - Lk 21:37	",
+"correct" :	"	b. Prophesy who smote you.	",
+"explanation" :	"	And having blindfolded Him, they struck Him on the face and asked Him, saying, Prophesy! Who is the one who struck You? - Lk 22:64	",
 },			
 ]			
-			
