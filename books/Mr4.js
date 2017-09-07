@@ -29,11 +29,11 @@ var quiz = [
 "image" :	"",		
 "choices" : [			
 	"	a. A man?	",
-	"	b. A bushel or bed?	",
+	"	b. A basket or bed?	",
 	"	c. A house?	",
 	"	d. A bushel or bench?	"
 ],			
-"correct" :	"	b. A bushel or bed?	",
+"correct" :	"	b. A basket or bed?	",
 "explanation" :	"	Also He said to them, Is a lamp brought to be put under a basket or under a bed? Is it not to be set on a lampstand? - Mr 4:21	",
 },			
 {			
@@ -78,11 +78,11 @@ var quiz = [
 "choices" : [			
 	"	a. In the temple	",
 	"	b. On a mountain	",
-	"	c. In a ship	",
+	"	c. In a boat	",
 	"	d. At the marketplace	"
 ],			
-"correct" :	"	b. He is beside Himself.	",
-"explanation" :	"	Then the multitude came together again, so that they could not so much as eat bread.But when His own people heard about this, they went out to lay hold of Him, for they said, He is out of His mind. - Mr 4:20-21	",
+"correct" :	"	c. In a boat	",
+"explanation" :	"	Leaving the crowd behind, they took him along, just as he was, in the boat. There were also other boats with him. - Mr 4:36	",
 },			
 {			
 "question" :	"	8. What was Jesus doing?	",
@@ -102,10 +102,10 @@ var quiz = [
 "choices" : [			
 	"	a. From whence came this storm?	",
 	"	b. Canst thou calm the storm?	",
-	"	c. Carest thou not that we perish?	",
+	"	c. Do You not care that we are perishing?	",
 	"	d. What wilt thou have us to do?	"
 ],			
-"correct" :	"	c. Carest thou not that we perish?	",
+"correct" :	"	c. Do You not care that we are perishing?	",
 "explanation" :	"	But He was in the stern, asleep on a pillow. And they awoke Him and said to Him, Teacher, do You not care that we are perishing? - Mr 4:38	",
 },			
 {			

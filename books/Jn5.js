@@ -68,7 +68,7 @@ var quiz = [
 	"	a. 1 year	",
 	"	b. 12 years	",
 	"	c. 24 years	",
-	"		"
+	"	d. 38 years	",
 ],			
 "correct" :	"	d. 38 years	",
 "explanation" :	"	Now a certain man was there who had an infirmity thirty-eight years. - Jn 5:5	",

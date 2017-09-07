@@ -21,7 +21,7 @@ var quiz = [
 	"	c. Paul & Silas	",
 	"	d. David & Goliath	"
 ],			
-"correct" :	"	a. Stone	",
+"correct" :	"	a. James & John	",
 "explanation" :	"	and so also were James and John, the sons of Zebedee, who were partners with Simon. And Jesus said to Simon, Do not be afraid. From now on you will catch men - Lk 5:10	",
 },			
 {			

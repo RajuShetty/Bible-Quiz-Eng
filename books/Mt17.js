@@ -61,7 +61,7 @@ var quiz = [
 "explanation" :	"	While he was still speaking, behold, a bright cloud overshadowed them; and suddenly a voice came out of the cloud, saying, This is My beloved Son, in whom I am well pleased. Hear Him	",
 },			
 {			
-"question" :	"	6. When Jesus said, Elias is come already, to whom was He referring?	",
+"question" :	"	6. When Jesus said, Elijah is come already, to whom was He referring?	",
 "image" :	"",		
 "choices" : [			
 	"	a. Moses	",

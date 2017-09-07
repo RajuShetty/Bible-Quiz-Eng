@@ -57,7 +57,7 @@ var quiz = [
 	"	c. He did not like its fruit	",
 	"	d. It was in the way	"
 ],			
-"correct" :	"	b. But few chosen.	",
+"correct" :"	a. It had no fruit	",
 "explanation" :	"	And seeing a fig tree by the road, He came to it and found nothing on it but leaves, and said to it, Let no fruit grow on you ever again. Immediately the fig tree withered away. - Matt 21:19	",
 },			
 {			

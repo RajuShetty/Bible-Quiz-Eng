@@ -4,12 +4,12 @@ var quiz = [
 "question" :	"	1. Jesus and His disciples picked this, and ate it on the Sabbath.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Corn	",
+	"	a. Grain	",
 	"	b. Figs	",
 	"	c. Wheat	",
 	"	d. Olives	"
 ],			
-"correct" :	"	a. Corn	",
+"correct" :	"	a. Grain	",
 "explanation" :	"	Now it happened on the second Sabbath after the first that He went through the grainfields. And His disciples plucked the heads of grain and ate them, rubbing them in their hands. - Lk 6:1	",
 },			
 {			
@@ -89,11 +89,11 @@ var quiz = [
 "image" :	"",		
 "choices" : [			
 	"	a. The mote	",
-	"	b. The beam	",
+	"	b. The plank	",
 	"	c. The camel	",
 	"	d. The lash	"
 ],			
-"correct" :	"	b. The beam	",
+"correct" :	"	b. The plank	",
 "explanation" :	"	And why do you look at the speck in your brother's eye, but do not perceive the plank in your own eye - Lk 6:41	",
 },			
 {			

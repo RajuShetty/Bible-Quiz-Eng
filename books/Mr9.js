@@ -18,10 +18,10 @@ var quiz = [
 "choices" : [			
 	"	a. Abraham & Isaac	",
 	"	b. Abraham & Moses	",
-	"	c. Moses & Elias	",
+	"	c. Moses & Elijah	",
 	"	d. Angels	"
 ],			
-"correct" :	"	c. Moses & Elias	",
+"correct" :	"	c. Moses & Elijah	",
 "explanation" :	"	And Elijah appeared to them with Moses, and they were talking with Jesus. - Mr 9:4	",
 },			
 {			

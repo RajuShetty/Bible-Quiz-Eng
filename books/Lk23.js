@@ -33,7 +33,7 @@ var quiz = [
 	"	c. Nicodemus	",
 	"	d. Joseph	"
 ],			
-"correct" :	"	c. Nicodemus	",
+"correct" :	"	a. Barabbas	",
 "explanation" :	"	And they all cried out at once, saying, Away with this Man, and release to us Barabbas - Lk 23:18	",
 },			
 {			
