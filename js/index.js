@@ -27,18 +27,19 @@ var app = {
     // 'load', 'deviceready', 'offline', and 'online'.
     bindEvents: function() {
         document.addEventListener('deviceready', this.onDeviceReady, false);
+        document.getElementById("toggleBtn").addEventListener('click', this.toggle, false);
     },
+	
+	
     // deviceready Event Handler
     //
     // The scope of 'this' is the event. In order to call the 'receivedEvent'
     // function, we must explicitly call 'app.receivedEvent(...);'
     onDeviceReady: function() {
-		 console.log('deviceready event');
+		
 		var push = PushNotification.init({
 	android: {
-		 "senderID": "574252231393"
-		},
-	
+	},
 	ios: {
 		alert: "true",
 		badge: "true",
@@ -47,13 +48,11 @@ var app = {
 	windows: {}
 });
 
- document.getElementById('regId').innerHTML = 'true';
-
 push.on('registration', function(data) {
 	console.log(data.registrationId);
 	var deviceToken = data.registrationId;
 	$.ajax({
-        "url": "http://vineyardworkerschurch.org/",
+        "url": "http://vineyardworkerschurch.org",
         "dataType": "json",
         "method": "POST",
         "data": {
@@ -74,37 +73,33 @@ push.on('notification', function(data) {
 	data.image,
 	data.additionalData
 	console.log(data);
-	navigator.notification.confirm(data.message);
-	//navigator.notification.confirm( 'Watch live from VWC Church', AlertConfirmed, 'VWC Church', 'Okay!');
-
+	alert(data.message);
 });
-
-/*function AlertConfirmed() {
-    window.location = 'liveprayers.html';
-}*/
 
 push.on('error', function(e) {
 	console.log(e.message);
 });
 		
-
+push.on('error', function(e) {
+	console.log("Error");
+});
 	
 	push.on('notification', function(data) {
      console.log('notification event');
      var cards = document.getElementById("cards");
-     var push = '<div class="swiper-slide slogan bg-slide gradient-container">' +
-       '<div class="fullscreen-title valign-wrapper">' +
-       '  <div class="valign">' +
-       
-       '      <h1 style="color:#ffffff">' + data.title + '</h1>' +
+     var push = '<div class="row">' +
+       '<div class="col s12 m6">' +
+       '  <div class="card darken-1">' +
+       '    <div class="card-content black-text">' +
+       '      <span class="card-title black-text">' + data.title + '</span>' +
        '      <p>' + data.message + '</p>' +
        '      <p>' + data.additionalData.foreground + '</p>' +
-       
+       '    </div>' +
        '  </div>' +
        ' </div>' +
        '</div>';
      cards.innerHTML += push;
-    
+
      app.push.finish(function() {
          console.log('success');
      }, function() {
@@ -112,12 +107,9 @@ push.on('error', function(e) {
      });
  });	
 		
- 
- 
-       
-       
-		
+        console.log('deviceready event');
+        document.getElementById('regId').innerHTML = 'true';
     }
 };
 
- app.initialize();
+app.initialize();
