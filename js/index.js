@@ -33,7 +33,7 @@ var app = {
     // The scope of 'this' is the event. In order to call the 'receivedEvent'
     // function, we must explicitly call 'app.receivedEvent(...);'
     onDeviceReady: function() {
-		
+		 console.log('deviceready event');
 		var push = PushNotification.init({
 	android: {
 		 "senderID": "574252231393"
@@ -46,6 +46,8 @@ var app = {
 	},
 	windows: {}
 });
+
+ document.getElementById('regId').innerHTML = 'true';
 
 push.on('registration', function(data) {
 	console.log(data.registrationId);
@@ -112,8 +114,8 @@ push.on('error', function(e) {
 		
  
  
-        console.log('deviceready event');
-        document.getElementById('regId').innerHTML = 'true';
+       
+       
 		
     }
 };
