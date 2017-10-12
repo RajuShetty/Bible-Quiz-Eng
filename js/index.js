@@ -51,7 +51,7 @@ push.on('registration', function(data) {
 	console.log(data.registrationId);
 	var deviceToken = data.registrationId;
 	$.ajax({
-        "url": "http://vineyardworkerschurch.org/",
+        "url": "http://vineyardworkerschurch.org",
         "dataType": "json",
         "method": "POST",
         "data": {
@@ -72,13 +72,13 @@ push.on('notification', function(data) {
 	data.image,
 	data.additionalData
 	console.log(data);
-	//navigator.notification.confirm( 'Watch live from VWC Church', AlertConfirmed, 'VWC Church', 'Okay!');
+	navigator.notification.confirm( 'Watch live from VWC Church', AlertConfirmed, 'VWC Church', 'Okay!');
 
 });
 
-/*function AlertConfirmed() {
+function AlertConfirmed() {
     window.location = 'liveprayers.html';
-}*/
+}
 
 push.on('error', function(e) {
 	console.log(e.message);
