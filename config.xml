@@ -26,6 +26,7 @@
     </platform>  
     <preference name="phonegap-version" value="cli-7.0.1" />
 	<preference name='pgb-builder-version' value='2' />
+	<plugin name="phonegap-plugin-push" spec="2.0.0" />
      <preference name="android-build-tool" value="gradle" />
 	<!-- firebase push end-->
 	
@@ -34,6 +35,7 @@
    <preference name="phonegap-version" value="cli-6.5.0" />
    <preference name="android-build-tool" value="gradle" />-->
    <gap:plugin name="cordova-plugin-admobpro" source="npm" /> 
+   
   
     <!-- You can comment out features you aren't using -->
 	<gap:plugin name="cordova-plugin-x-socialsharing" source="npm" />
