@@ -57,7 +57,7 @@ var quiz = [
 	"	c. Take pleasure.	",
 	"	d. Despair.	"
 ],			
-"correct" :	"	a. Hebrew	",
+"correct" :	"	c. Take pleasure.	",
 "explanation" :	"	Therefore I take pleasure in infirmities, in reproaches, in necessities, in persecutions, in distresses for Christ's sake: for when I am weak, then am I strong.2Cor 12:10	",
 },		 	
 {			

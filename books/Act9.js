@@ -25,7 +25,7 @@ var quiz = [
 "explanation" :	"	And as he journeyed, he came near Damascus: and suddenly there shined round about him a light from heaven:And he fell to the earth, and heard a voice saying unto him, Saul, Saul, why persecutest thou me? Acts9:3,4	",
 },			
 {			
-"question" :	"	3. Who answered Paul?	",
+"question" :	"	3. Who answered Saul?	",
 "image" :	"",		
 "choices" : [			
 	"	a. The soldiers	",

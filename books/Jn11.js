@@ -81,7 +81,7 @@ var quiz = [
 	"	c. Never late.	",
 	"	d. The hope & Glory.	"
 ],			
-"correct" :	"	b. Right on time.	",
+"correct" :	"	a. The Resurrection & Life.	",
 "explanation" :	"	Jesus said to her, I am the resurrection and the life. He who believes in Me, though he may die, he shall live Jn11:25	",
 },			
 {			

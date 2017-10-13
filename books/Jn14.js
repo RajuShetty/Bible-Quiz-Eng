@@ -33,7 +33,7 @@ var quiz = [
 	"	c. James	",
 	"	d. John	"
 ],			
-"correct" :	"	d. Feet.	",
+"correct" :	"	a. Thomas	",
 "explanation" :	"	Thomas said to Him, Lord, we do not know where You are going, and how can we know the way? Jn14:5	",
 },			
 {			

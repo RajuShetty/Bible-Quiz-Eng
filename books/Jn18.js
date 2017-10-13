@@ -105,7 +105,7 @@ var quiz = [
 	"	c. He has no advocate.	",
 	"	d. He is an unjust man.	"
 ],			
-"correct" :	"	b. He is guilty of blasphemy.	",
+"correct" :	"	a. I find no fault in Him.	",
 "explanation" :	"	Pilate said to Him, What is truth? And when he had said this, he went out again to the Jews, and said to them, I find no fault in Him at all.Jn18:38	",
 },			
 {			

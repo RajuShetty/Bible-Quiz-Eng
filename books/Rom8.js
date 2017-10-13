@@ -79,9 +79,9 @@ var quiz = [
 	"	b. Can we stand?	",
 	"	c. Who can number us?	",
 	"	d. Can we be made worthy?	",
-	"	d. In hell.	"
+	
 ],			
-"correct" :	"	a. Who can be against us?	",
+"correct" :	"a. Who can be against us?	",
 "explanation" :	"	What shall we then say to these things? If God be for us, who can be against us?Rom8:31	",
 },			
 {			
