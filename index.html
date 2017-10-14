@@ -22,7 +22,7 @@
   </head>
 
   <body>
-   
+    <div id="deviceready"> </div>
     <div class="animsition">
       
       <!-- Header -->
@@ -79,10 +79,10 @@
            
           </nav>
         </div>
-         <p id="regId">false</p>
+        
         <!-- Page Content -->
         <main class="mdl-layout__content">
-
+ <p id="regId">false</p>
  <div class="mdl-tabs__panel is-active" id="chat-panel">
 
 					<div id="cards"></div>
@@ -469,15 +469,17 @@
       </div>
     </div>
 
-
-    <script type="text/javascript" src="cordova.js"></script>
-	<script src="js/jquery-2.1.4.min.js"></script> 
+<script src="js/jquery-2.1.4.min.js"></script> 
     <script src="js/jqueryanimsition.js"></script>
     <script src="js/materialmin.js"></script>
     <script src="js/sweetalert.min.js"></script> 
     <script src="js/jquery.swipebox.min.js"></script>
     <script src="js/function.js"></script>
-	 <script type="text/javascript" src="js/index.js"></script>
+	 <script type="text/javascript" src="cordova.js"></script>
+    <script type="text/javascript" src="js/index.js"></script>
+	<script type="text/javascript">
+        app.initialize();
+    </script>
  
 	<script>
 var num = Math.random();
