@@ -4,8 +4,8 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         id        = "org.biblequizchapterwise.app"
-        version   = "1.1.1"
-		android-versionCode="10012"
+        version   = "1.1.2"
+		android-versionCode="10013"
 		> 
 
     <!-- Change app id (above), name, description, and author. App ID can be any reverse domain name, such as com.mycompany.app -->
@@ -30,10 +30,14 @@
 	<plugin name="phonegap-plugin-push" spec="2.0.0" />
      <preference name="android-build-tool" value="gradle" /> -->
 	<!-- firebase push end-->
-	
-	
-  <gap:plugin name="pushbots-cordova-plugin" spec="^1.4.0" source="npm" />
-   <preference name="phonegap-version" value="cli-6.5.0" />
+<!-- one signal push -->
+	<gap:plugin name="onesignal-cordova-plugin" spec="^2.1.1" source="npm" />
+<!-- Requires cli-6.4.0 but we recommend using the latest version. -->
+<preference name="phonegap-version" value="cli-7.0.1" />
+
+<preference name="android-minSdkVersion" value="19" />
+	<!-- one signal push End -->
+
    <preference name="android-build-tool" value="gradle" />
    <gap:plugin name="cordova-plugin-admobpro" source="npm" /> 
   
